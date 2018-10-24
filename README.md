@@ -243,7 +243,7 @@ The reports will be generated as multiple views in a seperate tab.
 
 **Demo Video**
 
-Click Here for dropbox demo video, for above process,
+Click the below dropbox video for your reference,
 
 https://www.dropbox.com/s/ubof5t0hjrs5dco/LoadTestWithWebload.mp4?dl=0
 
