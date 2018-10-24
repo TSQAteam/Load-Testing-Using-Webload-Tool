@@ -71,6 +71,94 @@ Your actions are recorded and appear in the Agenda Tree as you navigate the site
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/10.png)
 
+9. Type your filename and click Save. The Agenda is saved with the extension *.wlp. 
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/11.png)
+
+You now have a basic Agenda that can be used in a WebLOAD test configuration. For complete information on creating, editing and modifying Agendas, and adding functionality to your Agenda.
+
+**Configuring a Load Template using WebLOAD Wizard And Confiure Session**
+
+**To open WebLOAD Wizard** 
+
+1. Start the WebLOAD Console.
+
+Select Start -> All Programs -> RadView -> WebLOAD -> WebLOAD Console. 
+
+The WebLOAD Console opens, and the WebLOAD Console dialog box appears. 
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/12.png)
+
+2. Select Create a new template using WebLOAD Wizard.
+
+The WebLOAD Wizard opens. 
+
+3. On the Welcome screen, click Next. button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/13.png)
+
+4. The Agenda/Mix Type screen appears.
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/14.png)
+
+5. On the Agenda/Mix Type screen, select Single Agenda, and click Next.
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/14.png)
+
+6. On the Agenda/Mix Selection screen, click the below button 
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/15.png)
+
+7. Then browse to the location of the GingerGrammerChecker.wlp Agenda created earlier using WebLOAD IDE. Select the Agenda and click Open.
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/16.png)
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/17.png)
+
+8. Click 'Next' button
+
+9. Selecting a host on which to run the Load Machine. And click 'Next' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/18.png)
+
+10. Scheduling the test 'Individual or Collective Scheduling', and then click 'Next' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/19.png)
+
+11. Then selecting the number of Virtual Clients & Limit run to.
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/20.png)
+
+12.  Click 'Next' Button
+
+13. Performance Measurement Manager window will be appeared
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/21.png)
+
+14. Click 'Add Monitor' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/22.png)
+
+15. Click 'Add Data Source' Button, The Performance Measurements Manager Wizard opens. 
+
+16. Select 'Server' and click 'Next' button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
