@@ -71,7 +71,7 @@ Your actions are recorded and appear in the Agenda Tree as you navigate the site
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/10.png)
 
-***9. Type your filename and click Save. The Agenda is saved with the extension *.wlp.**
+**9. Type your filename and click Save. The Agenda is saved with the extension .wlp.**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/11.png)
 
