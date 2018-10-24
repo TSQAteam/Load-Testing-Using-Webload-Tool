@@ -25,3 +25,7 @@ The first step in creating an Agenda is to record your actions as you interact w
 WebLOAD IDE opens. 
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/2.png)
+
+2. Select Create a new project.
+
+The WebLOAD IDE main window opens in Editing Mode for you to begin creating your Agenda. 
