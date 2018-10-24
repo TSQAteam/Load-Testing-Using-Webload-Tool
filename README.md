@@ -145,9 +145,9 @@ The WebLOAD Wizard opens.
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/24.png)
 
+17. Server Configuration window will appeared, click 'Next' button
 
-
-
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/25.png)
 
 
 
