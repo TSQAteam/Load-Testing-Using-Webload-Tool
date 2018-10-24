@@ -6,7 +6,7 @@ WebLOAD is easy to use and delivers maximum testing performance and value.
 WebLOAD verifies the scalability and integrity of Internet applications by generating a load composed of Virtual Clients that simulate real-world traffic. 
 Probing Clients let you refine the testing process by acting as a single user that measures the performance of targeted activities, and provides individual performance statistics of the Internet application under load. 
 
-#**Load Testing Steps**
+**Load Testing Steps**
 
 * Create an Agenda.
 * Configure a Load Template using the WebLOAD Wizard.
@@ -14,7 +14,7 @@ Probing Clients let you refine the testing process by acting as a single user th
 * Run a test.
 * Analyze test results. 
 
-#**Create an Agenda**
+**Create an Agenda**
 
 The first step in creating an Agenda is to record your actions as you interact with your Web application. 
 
@@ -77,7 +77,7 @@ Your actions are recorded and appear in the Agenda Tree as you navigate the site
 
 You now have a basic Agenda that can be used in a WebLOAD test configuration. For complete information on creating, editing and modifying Agendas, and adding functionality to your Agenda.
 
-#**Configuring a Load Template using WebLOAD Wizard And Confiure Session**
+**Configuring a Load Template using WebLOAD Wizard And Confiure Session**
 
 **To open WebLOAD Wizard** 
 
@@ -177,7 +177,7 @@ The WebLOAD Wizard opens.
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/31.png)
 
-#**Run Test**
+**Run Test**
 
 **24. Now your test will be run**
 
@@ -185,7 +185,7 @@ The WebLOAD Wizard opens.
 
 **25. Once the run is completed ,  'Webload Analytics' pop up launch pop up will be appeared**
 
-#**Analyze test results**
+**Analyze test results**
 
 **26. Click 'Launch Webload Anlaytics' button**
 
@@ -197,7 +197,7 @@ The WebLOAD Wizard opens.
 
 **28. Then automatically reports will be generated in the webload analytics window**
 
-#**Session Summary Report**
+**Session Summary Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/35.png)
 
@@ -205,43 +205,43 @@ The WebLOAD Wizard opens.
 
 The reports will be generated as multiple views in a seperate tab.
 
-#**Attempted Connection Reports**
+**Attempted Connection Reports**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/36.png)
 
-#**Response Time Breakdown Reports**
+**Response Time Breakdown Reports**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/37.png)
 
-#**HTTP Response Report**
+**HTTP Response Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/38.png)
 
-#**HTTP Errors OverTime Report**
+**HTTP Errors OverTime Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/39.png)
 
-#**Errors and warinings Report**
+**Errors and warinings Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/40.png)
 
-#**Log Summary Report**
+**Log Summary Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/41.png)
 
-#**Total Page Time Report**
+**Total Page Time Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/42.png)
 
-#**Total Transaction Over Time Report**
+**Total Transaction Over Time Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/43.png)
 
-#**Load Generator Health Report**
+**Load Generator Health Report**
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/44.png)
 
-#**Demo Video**
+**Demo Video**
 
 Click the below dropbox video for your reference,
 
