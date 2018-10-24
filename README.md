@@ -103,47 +103,47 @@ The WebLOAD Wizard opens.
 
 5. On the Agenda/Mix Type screen, select Single Agenda, and click Next.
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/14.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/15.png)
 
 6. On the Agenda/Mix Selection screen, click the below button 
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/15.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/16.png)
 
 7. Then browse to the location of the GingerGrammerChecker.wlp Agenda created earlier using WebLOAD IDE. Select the Agenda and click Open.
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/16.png)
-
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/17.png)
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/18.png)
 
 8. Click 'Next' button
 
 9. Selecting a host on which to run the Load Machine. And click 'Next' button
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/18.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/19.png)
 
 10. Scheduling the test 'Individual or Collective Scheduling', and then click 'Next' button
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/19.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/20.png)
 
 11. Then selecting the number of Virtual Clients & Limit run to.
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/20.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/21.png)
 
 12.  Click 'Next' Button
 
 13. Performance Measurement Manager window will be appeared
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/21.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/22.png)
 
 14. Click 'Add Monitor' button
 
-![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/22.png)
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/23.png)
 
 15. Click 'Add Data Source' Button, The Performance Measurements Manager Wizard opens. 
 
 16. Select 'Server' and click 'Next' button
 
-
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/24.png)
 
 
 
