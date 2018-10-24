@@ -149,6 +149,106 @@ The WebLOAD Wizard opens.
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/25.png)
 
+18. Then select your hostname and click 'Select' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/26.png)
+
+19. Selected host details will appeared
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/27.png)
+
+20. Click 'Next' button, Now you have successfully completed the Performance Measurement Wizard.
+
+21. Click 'Finish' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/28.png)
+
+22. Click 'Next' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/29.png)
+
+23. Then 'Save' your load template
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/30.png)
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/31.png)
+
+**Run Test**
+
+24. Now your test will be run
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/32.png)
+
+25. Once the run is completed ,  'Webload Analytics' pop up launch pop up will be appeared
+
+**Analyze test results**
+
+26. Click 'Launch Webload Anlaytics' button
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/33.png)
+
+27. Then save the session
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/34.png)
+
+28. Then automatically reports will be generated in the webload analytics window
+
+**Session Summary Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/36.png)
+
+**Note**
+
+The reports will be generated as multiple views in a seperate tab.
+
+**Attempted Connection Reports**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/37.png)
+
+**Response Time Breakdown Reports**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/38.png)
+
+**HTTP Response Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/39.png)
+
+**HTTP Errors OverTime Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/40.png)
+
+**Errors and warinings Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/41.png)
+
+**Log Summary Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/42.png)
+
+**Total Page Time Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/43.png)
+
+**Total Transaction Over Time Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/44.png)
+
+**Load Generator Health Report**
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/45.png)
+
+**Demo Video**
+
+Click Here for dropbox demo video, for above process,
+
+https://www.dropbox.com/s/ubof5t0hjrs5dco/LoadTestWithWebload.mp4?dl=0
+
+
+
+
+
+
+
 
 
 
