@@ -29,3 +29,36 @@ WebLOAD IDE opens.
 2. Select Create a new project.
 
 The WebLOAD IDE main window opens in Editing Mode for you to begin creating your Agenda. 
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/3.png)
+
+3. In the main window, in Editing Mode, click the Start Record toolbar button to begin recording.
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/4.png)
+
+The Below dialog will appears. 
+
+![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/5.png)
+
+4. Click 'Ok'
+
+WebLOAD IDE begins recording all actions you perform in the browser, as indicated by the recording notification in the WebLOAD IDE status bar. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
