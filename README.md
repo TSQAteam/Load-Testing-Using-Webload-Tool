@@ -20,4 +20,4 @@ The first step in creating an Agenda is to record your actions as you interact w
 
 ![alt text](https://github.com/TSQAteam/Load-Testing-Using-Webload-Tool/blob/master/Screens/1.png)
 
-* Start WebLOAD IDE by selecting Start - Programs - RadView - WebLOAD - WebLOAD IDE. WebLOAD IDE opens. 
+1.Start WebLOAD IDE by selecting Start - Programs - RadView - WebLOAD - WebLOAD IDE. WebLOAD IDE opens. 
