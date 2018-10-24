@@ -1,6 +1,6 @@
 # Load Testing Using Webload Tool
 
-**Introduction**
+# **Introduction**
 
 WebLOAD is easy to use and delivers maximum testing performance and value. 
 WebLOAD verifies the scalability and integrity of Internet applications by generating a load composed of Virtual Clients that simulate real-world traffic. 
